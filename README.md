@@ -20,12 +20,18 @@ Configure plugin
 1. Window -> Preferences -> NOP AI Inspector
 2. Server preset: select one of predefined presets
 3. Server URL: Base URL of an OpenAI-compatible API
-4a. For local LLM server:
+4. For local LLM server:
   - keep API key empty
   - run local model server
-4b. For remote model server:
+5. For remote model server:
   - create or get API key from the server provider (https://openrouter.ai for example)
   - enter it to API key field
-5. Press Model Load button
-6. Model: set available model
-7. Apply and Close
+6. Press Model Load button
+7. Model: set available model
+8. Apply and Close
+
+Usage:
+
+1. Select categories to include them in the next analysis.
+2. Press Analyze
+3. Double click on the finding line to get detailed description
