@@ -1,7 +1,7 @@
 # NOP AI Inspector
 AI-assisted code inspection plug-in for Eclipse.
 
-##Installation##
+#Installation
 
 1. Run Eclipse
 2. Help → Install New Software
@@ -10,12 +10,12 @@ AI-assisted code inspection plug-in for Eclipse.
 5. Add
 6. If the list appears empty, disable: Group items by category
 
-##If the NOP AI Inspector view does not appear automatically##
+#If the NOP AI Inspector view does not appear automatically
 
 1. Window -> Show View -> Other
 2. Other -> NOP AI Inspector
 
-##Configure plugin##
+#Configure plugin
 
 1. Window -> Preferences -> NOP AI Inspector
 2. Server preset: select one of predefined presets
