@@ -33,5 +33,6 @@ Configure plugin
 Usage:
 
 1. Select categories to include them in the next analysis.
-2. Press Analyze
-3. Double click on the finding line to get detailed description
+2. Open the file to analyze in the editor
+3. Press Analyze
+4. Double click on the finding line to get detailed description
