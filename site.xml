@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/studio.nopgames.aiinspector.feature_0.1.0.202611121331.jar" id="studio.nopgames.aiinspector.feature" version="0.1.0.202611121331">
+      <category name="studio.nopgames.aiinspector.category"/>
+   </feature>
+   <category-def name="studio.nopgames.aiinspector.category" label="NOP AI Inspector">
+      <description>
+         AI-assisted code inspection tools for Eclipse.
+      </description>
+   </category-def>
+</site>
